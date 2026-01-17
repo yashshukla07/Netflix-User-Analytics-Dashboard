@@ -39,3 +39,6 @@ This dashboard converts raw Netflix data into actionable insights for content st
 - How has Netflix’s content library evolved over time?
 
 **Dashboard Snapshots**
+
+!.[](https://github.com/yashshukla07/Netflix-User-Analytics-Dashboard/blob/main/Netflix_User_Activity.png)
+!.[](https://github.com/yashshukla07/Netflix-User-Analytics-Dashboard/blob/main/Content%20Insights.png)
