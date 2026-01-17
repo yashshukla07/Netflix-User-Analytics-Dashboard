@@ -40,5 +40,5 @@ This dashboard converts raw Netflix data into actionable insights for content st
 
 **Dashboard Snapshots**
 
-Main : !.[](https://github.com/yashshukla07/Netflix-User-Analytics-Dashboard/blob/main/Netflix_User_Activity.png)
-Page-2 : !.[](https://github.com/yashshukla07/Netflix-User-Analytics-Dashboard/blob/main/Content%20Insights.png)
+Main : ![](https://github.com/yashshukla07/Netflix-User-Analytics-Dashboard/blob/main/Netflix_User_Activity.png)
+Page-2 : ![](https://github.com/yashshukla07/Netflix-User-Analytics-Dashboard/blob/main/Content%20Insights.png)
